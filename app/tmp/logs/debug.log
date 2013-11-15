@@ -1,0 +1,83 @@
+2013-10-04 22:06:40 Notice: Notice (8): Undefined index: Bookyear in [/vagrant/app/View/Exportexcel/kolombalans.ctp, line 169]
+Trace:
+include - APP/View/Exportexcel/kolombalans.ctp, line 169
+View::_evaluate() - CORE/Cake/View/View.php, line 947
+View::_render() - CORE/Cake/View/View.php, line 909
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 948
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 109
+
+2013-10-06 08:43:52 Notice: Notice (8): Undefined variable: nieuwe_stukken in [/vagrant/app/Model/Boekingstukken.php, line 78]
+Trace:
+Boekingstukken::create_new_stukken() - APP/Model/Boekingstukken.php, line 78
+CalculationsController::crossbooking() - APP/Controller/CalculationsController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 118
+
+2013-10-06 08:44:03 Notice: Notice (8): Undefined variable: nieuwe_stukken in [/vagrant/app/Model/Boekingstukken.php, line 78]
+Trace:
+Boekingstukken::create_new_stukken() - APP/Model/Boekingstukken.php, line 78
+CalculationsController::crossbooking() - APP/Controller/CalculationsController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 118
+
+2013-10-06 08:44:08 Notice: Notice (8): Undefined variable: nieuwe_stukken in [/vagrant/app/Model/Boekingstukken.php, line 78]
+Trace:
+Boekingstukken::create_new_stukken() - APP/Model/Boekingstukken.php, line 78
+Boekingstukken::retrieve() - APP/Model/Boekingstukken.php, line 49
+CalculationsController::crossbooking() - APP/Controller/CalculationsController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 118
+
+2013-10-06 08:44:08 Notice: Notice (8): Undefined variable: nieuwe_stukken in [/vagrant/app/Model/Boekingstukken.php, line 78]
+Trace:
+Boekingstukken::create_new_stukken() - APP/Model/Boekingstukken.php, line 78
+CalculationsController::crossbooking() - APP/Controller/CalculationsController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 118
+
+2013-10-06 08:44:14 Notice: Notice (8): Undefined variable: nieuwe_stukken in [/vagrant/app/Model/Boekingstukken.php, line 78]
+Trace:
+Boekingstukken::create_new_stukken() - APP/Model/Boekingstukken.php, line 78
+Boekingstukken::retrieve() - APP/Model/Boekingstukken.php, line 49
+CalculationsController::crossbooking() - APP/Controller/CalculationsController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 118
+
+2013-10-06 08:44:14 Notice: Notice (8): Undefined variable: nieuwe_stukken in [/vagrant/app/Model/Boekingstukken.php, line 78]
+Trace:
+Boekingstukken::create_new_stukken() - APP/Model/Boekingstukken.php, line 78
+CalculationsController::crossbooking() - APP/Controller/CalculationsController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 118
+
+2013-10-06 08:48:23 Notice: Notice (8): Undefined variable: nieuwe_stukken in [/vagrant/app/Model/Boekingstukken.php, line 78]
+Trace:
+Boekingstukken::create_new_stukken() - APP/Model/Boekingstukken.php, line 78
+CalculationsController::crossbooking() - APP/Controller/CalculationsController.php, line 81
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 118
+
